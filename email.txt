@@ -1,0 +1,57 @@
+info@cioc.in
+
+
+raj@cioc.co.in
+
+A block of mass $m$ moving at a speed $v$ compresses a
+spring through a distance $x$ before its speed is halved.
+Find the spring constant of the spring.
+
+
+
+Let the velocity of the body at A be v $\\$
+So,the velocity of the body at B is v/2 $\\$
+Energy at point A = Energy at point B $\\$
+So, $\frac{1}{2} \ mv_A^2  = \frac{1}{2} \ mv_B^2 + \frac{1}{2} \ kx^{2+}$ $\\$
+
+$\Rightarrow  \frac{1}{2} \ kx^2 = \frac{1}{2} \ mv_A^2 - \frac{1}{2} \ mv_B^2 \Rightarrow kx^2 = m (V_A^{2+-} V_B^2) \Rightarrow  kx^2 = m \Bigg(v^2 - \frac{v^2}{4}  \Rightarrow k = \frac{3mv^2}{3x^2}$
+
+
+
+Que 45
+
+Mass of the body = m $\\$
+Let the elongation be x $\\$
+So, $\frac{1}{2} \ kx^2 = mgx \\$
+$\Rightarrow x = 2mg/k$
+
+
+
+
+
+que 46
+
+
+The body is displaced x towards right $\\$
+Let the velocity of the body be v at its mean position $\\$
+Applying law of conservation of energy $\\$
+$\frac{1}{2} \ mv^2 = \frac{1}{2} \ k_1 x^2 \Rightarrow mv^2 = x^2 (k_1+k_2) \Rightarrow v^2 = \frac{x^2(k_1+k_2)}{m} \\$
+
+$\Rightarrow v = x \sqrt{\frac{k_1+k_2}{m}}$
+
+
+
+
+que 47
+
+Let the compression be x $\\$
+According to the law of conservation of the energy $\\$
+$\frac{1}{2} \ mv^2 = \frac{1}{2} \ kx^2 \Rightarrow x^2 = mv^2/k  \Rightarrow x= v \sqrt{(m/k)} \\$
+b)  No. it will be in the opposite direction and magnitude will be less due to loss in spring. 
+
+
+
+
+
+
+
